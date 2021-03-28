@@ -4,3 +4,7 @@ This repo is intended to be my own knowledge base in case I forgot how to do som
 
 ## RPi 4b Pinout
 ![Pinout](/resourses/Pinout.png)
+
+## RPi possibilities
+### Headless bluetooth speaker
+https://www.raspberrypi.org/forums/viewtopic.php?t=235519
